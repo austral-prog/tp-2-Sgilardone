@@ -1,5 +1,4 @@
-[17:23, 20/08/2024] Santiago Gilardone: :(
-[20:15, 20/08/2024] Sol Fritz: def change():
+def change():
     gasto: 23.75
     Dinero_recibido: 100
     
